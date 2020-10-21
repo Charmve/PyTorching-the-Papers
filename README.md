@@ -15,7 +15,7 @@ Study state-of-the-art papers with code 💪
 		<td><font size="4">2.</font></td>
 		<td><center><a href="https://www.youtube.com/watch?v=E8OqgNDBGO0" target="_blank"><img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5ca3b3c3ca205d53d7e986a1_pipeline-01-p-2000.png" alt="StegaStamp: Invisible Hyperlinks in Physical Photographs" width="426" height="%100" /><img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5ca400f82e5a6c5707af7189_pipeline_train-01-p-2000.png" alt="StegaStamp: Invisible Hyperlinks in Physical Photographs" width="1022" height="%100" /></a></center></td>
 		<td>
-			<p align="center"><b>StegaStamp</b>: Invisible Hyperlinks in Physical Photographs
+			<p align="center"><font size="5"><b>StegaStamp</b>: Invisible Hyperlinks in Physical Photographs</font>
 			<br> 
 			<b>Matthew Tancik∗</b>, Ben Mildenhall∗, Ren Ng</p>
 			<p align="left"><font size =2>
@@ -34,7 +34,7 @@ an architecture, algorithms, and a prototype implementation addressing this visi
 		<td><font size="4">1.</font></td>
 		<td><center><a href="https://www.youtube.com/watch?v=3YjkkxgAIKw" target="_blank"><img src="https://robinkips.github.io/CA-GAN/images/full_face_shades.png" alt="CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer" width="1022" height="%100" /></a></center></td>
 		<td>
-			<p align="center"><b>CA-GAN</b>: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer
+			<p align="center"><font size="4"><b>CA-GAN</b>: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer</font>
 			<br>
 			<b>Robin Kips</b>, Pietro Gori, Matthieu Perrot, and Isabelle Bloch</p>
 			<p align="left">
