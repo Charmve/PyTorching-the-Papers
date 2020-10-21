@@ -17,7 +17,7 @@ Study state-of-the-art papers with code 💪
 		<td>
 			<p align="center"><font size="5"><b>StegaStamp</b>: Invisible Hyperlinks in Physical Photographs</font>
 			<br> 
-			<b>Matthew Tancik∗</b>, Ben Mildenhall∗, Ren Ng</p>
+			<b>Matthew Tancik<sup>∗</sup></b>, Ben Mildenhall<sup>∗</sup>, Ren Ng</p>
 			<p align="left"><font size =2>
         <b>Abstract</b>. Printed and digitally displayed photos have the ability to hide imperceptible digital data that can be accessed through
 internet-connected imaging systems. Another way to think about this is physical photographs that have unique QR codes invisibly embedded within them. This paper presents
@@ -36,7 +36,7 @@ an architecture, algorithms, and a prototype implementation addressing this visi
 		<td>
 			<p align="center"><font size="4"><b>CA-GAN</b>: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer</font>
 			<br>
-			<b>Robin Kips</b>, Pietro Gori, Matthieu Perrot, and Isabelle Bloch</p>
+			<b>Robin Kips<sup>*</sup></b>, Pietro Gori, Matthieu Perrot, and Isabelle Bloch</p>
 			<p align="left">
         <font size =2>
         <b>Abstract</b>. While existing makeup style transfer models perform an image synthesis whose results cannot be explicitly controlled, the ability to modify makeup color continuously is a desirable property for virtual try-on applications. We propose a new formulation for the makeup style transfer task, with the objective to learn a color controllable makeup style synthesis. We introduce CA-GAN, a generative model that learns to modify the color of specific objects (e.g. lips or eyes) in the image to an arbitrary target color while preserving background. Since color labels are rare and costly to acquire, our method leverages weakly supervised learning for conditional GANs. This enables to learn a controllable synthesis of complex objects, and only requires a weak proxy of the image attribute that we desire to modify. Finally, we present for the first time a quantitative analysis of makeup style transfer and color control performance.
