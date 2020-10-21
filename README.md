@@ -30,7 +30,7 @@ an architecture, algorithms, and a prototype implementation addressing this visi
 	</tr>
   <tr>
 		<td><font size="4">1.</font></td>
-		<td><center><a href="https://www.youtube.com/watch?v=3YjkkxgAIKw" target="_blank"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1601457995/video_to_markdown/images/youtube--3YjkkxgAIKw-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer" width="426" height="240" /></a></center></td>
+		<td><center><a href="https://www.youtube.com/watch?v=3YjkkxgAIKw" target="_blank"><img src="https://robinkips.github.io/CA-GAN/images/full_face_shades.png" alt="CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer" width="426" height="240" /></a></center></td>
 		<td>
 			<p align="center"><b>CA-GAN</b>: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer
 			<br>
