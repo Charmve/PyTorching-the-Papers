@@ -1,17 +1,19 @@
 # PyTorchingThePaper
 Study state-of-the-art papers with code
 
+<!--
 ## StegaStamp: Invisible Hyperlinks in Physical Photographs
 <p align="center">
   <a href="https://www.youtube.com/watch?v=E8OqgNDBGO0" target="_blank">
     <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1601457995/video_to_markdown/images/youtube--E8OqgNDBGO0-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="StegaStamp: Invisible Hyperlinks in Physical Photographs" width="426" height="240" />
   </a>
 </p>
+-->
 
 <table>
 	<tr>
 		<td><font size="4">2.</font></td>
-		<td><center><a href="https://www.youtube.com/watch?v=E8OqgNDBGO0" target="_blank"><img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5ca3b3c3ca205d53d7e986a1_pipeline-01-p-2000.png" alt="StegaStamp: Invisible Hyperlinks in Physical Photographs" width="426" height="%100" /><br><img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5ca400f82e5a6c5707af7189_pipeline_train-01-p-2000.png" alt="StegaStamp: Invisible Hyperlinks in Physical Photographs" width="426" height="%100" /></a></center></td>
+		<td><center><a href="https://www.youtube.com/watch?v=E8OqgNDBGO0" target="_blank"><img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5ca3b3c3ca205d53d7e986a1_pipeline-01-p-2000.png" alt="StegaStamp: Invisible Hyperlinks in Physical Photographs" width="426" height="%100" /><img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5ca400f82e5a6c5707af7189_pipeline_train-01-p-2000.png" alt="StegaStamp: Invisible Hyperlinks in Physical Photographs" width="852" height="%100" /></a></center></td>
 		<td>
 			<p align="center"><b>StegaStamp</b>: Invisible Hyperlinks in Physical Photographs
 			<br> 
@@ -30,7 +32,7 @@ an architecture, algorithms, and a prototype implementation addressing this visi
 	</tr>
   <tr>
 		<td><font size="4">1.</font></td>
-		<td><center><a href="https://www.youtube.com/watch?v=3YjkkxgAIKw" target="_blank"><img src="https://robinkips.github.io/CA-GAN/images/full_face_shades.png" alt="CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer" width="426" height="%100" /></a></center></td>
+		<td><center><a href="https://www.youtube.com/watch?v=3YjkkxgAIKw" target="_blank"><img src="https://robinkips.github.io/CA-GAN/images/full_face_shades.png" alt="CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer" width="852" height="%100" /></a></center></td>
 		<td>
 			<p align="center"><b>CA-GAN</b>: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer
 			<br>
