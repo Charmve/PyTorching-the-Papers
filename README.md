@@ -1,5 +1,5 @@
 # PyTorchingThePaper
-Study state-of-the-art papers with code
+Study state-of-the-art papers with code 💪
 
 <!--
 ## StegaStamp: Invisible Hyperlinks in Physical Photographs
