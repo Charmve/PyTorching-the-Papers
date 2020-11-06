@@ -13,7 +13,7 @@ Study state-of-the-art papers with code 💪
 <table>
 <tr>
 	<td><font size="4">6.</font></td>
-	<td><center><a href="https://www.youtube.com/watch?v=yvNZGDZC3F8" target="_blank"><img src="https://img-blog.csdnimg.cn/img_convert/53252d7269b7a184bab9824d5e039787.png" width="640" /></a></center>
+	<td><center><a href="https://www.youtube.com/watch?v=yvNZGDZC3F8" target="_blank"><img src="https://img-blog.csdnimg.cn/img_convert/53252d7269b7a184bab9824d5e039787.png" width="%100" height="45"/></a></center>
 	</td>
 	<td>
 		<p align="center"><font size="5"><b>PointRend</b>: Image Segmentation as Rendering</font>
