@@ -107,7 +107,7 @@ Study state-of-the-art papers with code 💪
 	        </details>
 		</font>
 	     	</p>
-		<p align="center"><img width="%100" height="30" src="https://eccv2020.eu/wp-content/uploads/2020/05/eccv-online-logo_A.png"> AIM (ECCV 2020)
+		<p align="center"><img width="%100" height="45" src="https://eccv2020.eu/wp-content/uploads/2020/05/eccv-online-logo_A.png"> AIM (ECCV 2020)
 			<br>[<b><a href="https://arxiv.org/pdf/1904.05343.pdf" target="_blank">arXiv</a></b> | <a href="https://www.matthewtancik.com/stegastamp" target="_blank"><b>Project Page</b></a> |  <a href="https://www.youtube.com/watch?v=E8OqgNDBGO0" target="_blank"><b>Video</b></a>  |  <a href="https://github.com/tancik/StegaStamp" target="_blank"><b>Code</b></a>]
 		</p>
 	</td>
