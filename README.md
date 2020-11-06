@@ -67,7 +67,7 @@ Study state-of-the-art papers with code 💪
 		</details>
 	        </font>
 	     	</p>
-		<p align="center"><img width="%100" height="45" src="https://cvpr2019.thecvf.com/images/sponsors/cvf_.jpg"> CVPR 2020
+		<p align="center"><img width="%100" height="30" src="https://cvpr2019.thecvf.com/images/sponsors/cvf_.jpg"> CVPR 2020
 			<br>[<b><a href="https://arxiv.org/abs/2010.16188" target="_blank">arXiv</a></b> | <a href="https://github.com/JizhiziLi/animal-matting" target="_blank"><b>Project Page</b></a> |  <b>Video</b>  |  <a href="https://github.com/JizhiziLi/animal-matting" target="_blank"><b>Code</b></a>]
 		</p>
 	</td>
