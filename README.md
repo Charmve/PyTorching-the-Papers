@@ -33,7 +33,7 @@ Study state-of-the-art papers with code 💪
 </tr>
 <tr>
 	<td><font size="4">5.</font></td>
-	<td><center><a href="https://www.youtube.com/watch?v=sysySMr3YN4" target="_blank"><img src="https://img-blog.csdnimg.cn/img_convert/3dd379d7f61591dc731adfcdf032b91b.png" width="426" height="%100" /></a></center>
+	<td><center><a href="https://www.youtube.com/watch?v=sysySMr3YN4" target="_blank"><img src="https://img-blog.csdnimg.cn/img_convert/3dd379d7f61591dc731adfcdf032b91b.png" width="640" height="%100" /></a></center>
 	</td>
 	<td>
 		<p align="center"><font size="5"><b>PolarMask</b>: Single Shot Instance Segmentation with Polar Representation</font>
@@ -52,7 +52,7 @@ Study state-of-the-art papers with code 💪
 </tr>
 <tr>
 	<td><font size="4">4.</font></td>
-	<td><center><a href="https://github.com/JizhiziLi/animal-matting" target="_blank"><img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5ca3b3c3ca205d53d7e986a1_pipeline-01-p-2000.png" alt="End-to-end Animal Image Matting" width="426" height="%100" /></a></center>
+	<td><center><a href="https://github.com/JizhiziLi/animal-matting" target="_blank"><img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5ca3b3c3ca205d53d7e986a1_pipeline-01-p-2000.png" alt="End-to-end Animal Image Matting" width="640" height="%100" /></a></center>
 	</td>
 	<td>
 		<p align="center"><font size="5"><b>End-to-end Animal Image Matting</b></font>
@@ -64,14 +64,14 @@ Study state-of-the-art papers with code 💪
 		</details>
 	        </font>
 	     	</p>
-		<p align="center"><img width="%100" height="30" src="https://cvpr2019.thecvf.com/images/sponsors/cvf_.jpg"> CVPR 2020
+		<p align="center"><img width="%100" height="45" src="https://cvpr2019.thecvf.com/images/sponsors/cvf_.jpg"> CVPR 2020
 			<br>[<b><a href="https://arxiv.org/abs/2010.16188" target="_blank">arXiv</a></b> | <a href="https://github.com/JizhiziLi/animal-matting" target="_blank"><b>Project Page</b></a> |  <b>Video</b>  |  <a href="https://github.com/JizhiziLi/animal-matting" target="_blank"><b>Code</b></a>]
 		</p>
 	</td>
 </tr>
 <tr>
 	<td><font size="4">3.</font></td>
-	<td><center><a href="https://www.youtube.com/watch?v=E8OqgNDBGO0" target="_blank"><img src="https://mmbiz.qpic.cn/mmbiz_png/ZNdhWNib3IRB5Jh9zIic4ScbPaullYiaFviasLGiaSiaj7o2IRn5eias4rmEkhVvgJarDoypyr8fjflX5jn5C2FmydADg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="GhostNet: GhostNet: More Features from Cheap Operations" width="426" height="%100" /></a></center>
+	<td><center><a href="https://www.youtube.com/watch?v=E8OqgNDBGO0" target="_blank"><img src="https://mmbiz.qpic.cn/mmbiz_png/ZNdhWNib3IRB5Jh9zIic4ScbPaullYiaFviasLGiaSiaj7o2IRn5eias4rmEkhVvgJarDoypyr8fjflX5jn5C2FmydADg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="GhostNet: GhostNet: More Features from Cheap Operations" width="640" height="%100" /></a></center>
 	</td>
 	<td>
 		<p align="center"><font size="5"><b>GhostNet</b>: GhostNet: More Features from Cheap Operations</font>
@@ -90,7 +90,7 @@ Study state-of-the-art papers with code 💪
 </tr>
 <tr>
 	<td><font size="4">2.</font></td>
-	<td><center><a href="https://www.youtube.com/watch?v=E8OqgNDBGO0" target="_blank"><img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5ca3b3c3ca205d53d7e986a1_pipeline-01-p-2000.png" alt="StegaStamp: Invisible Hyperlinks in Physical Photographs" width="426" height="%100" /><img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5ca400f82e5a6c5707af7189_pipeline_train-01-p-2000.png" alt="StegaStamp: Invisible Hyperlinks in Physical Photographs" width="1022" height="%100" /></a></center>
+	<td><center><a href="https://www.youtube.com/watch?v=E8OqgNDBGO0" target="_blank"><img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5ca3b3c3ca205d53d7e986a1_pipeline-01-p-2000.png" alt="StegaStamp: Invisible Hyperlinks in Physical Photographs" width="640" height="%100" /><img src="https://uploads-ssl.webflow.com/51e0d73d83d06baa7a00000f/5ca400f82e5a6c5707af7189_pipeline_train-01-p-2000.png" alt="StegaStamp: Invisible Hyperlinks in Physical Photographs" width="1022" height="%100" /></a></center>
 	</td>
 	<td>
 		<p align="center"><font size="5"><b>StegaStamp</b>: Invisible Hyperlinks in Physical Photographs</font>
