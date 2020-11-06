@@ -1,4 +1,4 @@
-# PyTorchingThePaper
+# PyTorching the Papers
 Study state-of-the-art papers with code 💪
 
 <!--
