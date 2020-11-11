@@ -54,7 +54,7 @@ Study state-of-the-art papers with code 💪
 </tr>
 <tr>
 	<td><font size="4">4.</font></td>
-	<td><center><a href="https://github.com/JizhiziLi/animal-matting" target="_blank"><img src="https://github.com/JizhiziLi/animal-matting/raw/master/demo/src/sample2.jpg" alt="End-to-end Animal Image Matting" width="60" height="%100" /><img src="https://github.com/JizhiziLi/animal-matting/raw/master/demo/src/sample2.png" alt="End-to-end Animal Image Matting" width="60" height="%100" /></a></center>
+	<td><center><a href="https://github.com/JizhiziLi/animal-matting" target="_blank"><img src="https://github.com/JizhiziLi/animal-matting/raw/master/demo/src/sample2.jpg" alt="End-to-end Animal Image Matting" width="90" height="%100" /><img src="https://github.com/JizhiziLi/animal-matting/raw/master/demo/src/sample2.png" alt="End-to-end Animal Image Matting" width="90" height="%100" /></a></center>
 	</td>
 	<td>
 		<p align="center"><font size="5"><b>End-to-end Animal Image Matting</b></font>
